@@ -1,0 +1,116 @@
+html {
+    height: 100%;
+    position: relative;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+    background-color: #FFC973 !important;
+	-webkit-box-direction: normal;
+}
+
+.card {
+    margin-top: 40px;
+    position: relative;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
+
+.recipe-status {
+    position: absolute;
+    width: 25%;
+    color: white;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.new {
+    background-color: #53c75cbd;
+}
+
+.hot {
+    background-color: #f329089e;
+    width: 40%;
+}
+
+.best {
+    background-color: #f5a91f9e;
+}
+
+.archive {
+    background-color: #545b62;
+}
+.wrapper-content {
+    overflow: auto;
+    padding-bottom: 160px;
+}
+
+.wrapper {
+    min-height: 100%;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 120px;
+    clear: both;
+    background-color: #A66400;
+    width: 100%;
+}
+
+.img-fluid {
+    margin: 20px 0 20px 0;
+}
+
+.header {
+    margin-top: 10px;
+}
+
+.navbar {
+    background-color: #A66400;
+}
+
+.container {
+    padding-top: 20px;
+    color: #62686d;
+}
+
+#upbutton {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#archive {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.navbar-nav {
+    margin-right: auto;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.no-result {
+    font-size: 24px;
+}
+
+.navbar-brand {
+    font-weight: 500;
+    font-size: 24px !important;
+}
+
+.wp_article {
+font-family: Times New Roman;
+font-size: 10pt;
+color: black;
+line-height: normal;
+}
+.zag{
+font-size: 12pt;
+}
